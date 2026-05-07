@@ -1,12 +1,12 @@
 {
   "trips": [
     {
-      "destination": "Mallorca",
-      "date": "2026-08-12"
+      "destination":"Mallorca",
+      "date":"2026-08-12"
     },
     {
-      "destination": "Paris",
-      "date": "2026-10-05"
+      "destination":"Paris",
+      "date":"2026-10-05"
     }
   ]
 }

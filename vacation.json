@@ -1,24 +1,31 @@
 {
   "trips": [
     {
-      "destination": "Mallorca",
-      "departure_date": "2026-09-12",
-      "return_date": "2026-09-19",
-      "hotel": "Iberostar",
+      "destination": "Lazise",
+      "departure_date": "2026-05-23",
+      "return_date": "2026-05-25",
+      "hotel": "Quellenhof",
       "status": "Bestätigt"
     },
     {
+      "destination": "Rom",
+      "departure_date": "2026-05-30",
+      "return_date": "2026-06-02",
+      "hotel": "Rom",
+      "status": "Geplant"
+    },
+    {
       "destination": "Paris",
-      "departure_date": "2026-10-05",
-      "return_date": "2026-10-11",
-      "hotel": "Hilton Paris",
+      "departure_date": "2026-08-12",
+      "return_date": "2026-08-12",
+      "hotel": "Park",
       "status": "Gebucht"
     },
     {
-      "destination": "Rom",
-      "departure_date": "2027-01-10",
-      "return_date": "2027-01-17",
-      "hotel": "Roma Palace",
+      "destination": "Hamburg",
+      "departure_date": "2026-08-29",
+      "return_date": "2026-08-30",
+      "hotel": "Aida",
       "status": "Geplant"
     }
   ]

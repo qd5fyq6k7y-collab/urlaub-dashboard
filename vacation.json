@@ -5,7 +5,8 @@
       "departure_date": "2026-05-23",
       "return_date": "2026-05-25",
       "hotel": "Quellenhof",
-      "status": "Bestätigt"
+      "status": "Bestätigt",
+      "country": "IT"
     },
     {
       "destination": "Rom",
@@ -19,14 +20,16 @@
       "departure_date": "2026-08-12",
       "return_date": "2026-08-12",
       "hotel": "Park",
-      "status": "Gebucht"
+      "status": "Gebucht",
+      "country": "FR",
     },
     {
       "destination": "Hamburg",
       "departure_date": "2026-08-29",
       "return_date": "2026-08-30",
       "hotel": "Aida",
-      "status": "Geplant"
+      "status": "Geplant",
+      "country": "DE"
     }
   ]
 }

@@ -13,7 +13,8 @@
       "departure_date": "2026-05-30",
       "return_date": "2026-06-02",
       "hotel": "Rom",
-      "status": "Geplant"
+      "status": "Geplant",
+      "country": "IT"
     },
     {
       "destination": "Paris",
@@ -21,7 +22,7 @@
       "return_date": "2026-08-12",
       "hotel": "Park",
       "status": "Gebucht",
-      "country": "FR",
+      "country": "FR"
     },
     {
       "destination": "Hamburg",

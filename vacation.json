@@ -1,13 +1,6 @@
 {
   "trips": [
-    {
-      "destination": "Lazise",
-      "departure_date": "2026-05-23",
-      "return_date": "2026-05-25",
-      "hotel": "Quellenhof",
-      "status": "Bestätigt",
-      "country": "IT"
-    },
+      
     {
       "destination": "Rom",
       "departure_date": "2026-05-30",

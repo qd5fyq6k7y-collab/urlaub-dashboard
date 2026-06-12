@@ -1,14 +1,5 @@
 {
   "trips": [
-      
-    {
-      "destination": "Rom",
-      "departure_date": "2026-05-30",
-      "return_date": "2026-06-02",
-      "hotel": "Rom",
-      "status": "Geplant",
-      "country": "IT"
-    },
     {
       "destination": "Paris",
       "departure_date": "2026-08-12",
